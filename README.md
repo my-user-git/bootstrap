@@ -1,1 +1,1 @@
-# bootstrap
+# Учебное задание по bootstrap
